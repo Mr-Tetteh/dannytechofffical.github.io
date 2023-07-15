@@ -1,0 +1,104 @@
+body{
+    background-color: #2E3840;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h2{
+    font-family: 'Petit Formal Script', cursive;
+
+}
+h3{
+    font-family: 'Bad Script', cursive;
+
+}
+h4{
+    font-family: 'Lugrasimo', cursive;
+
+}
+h6{
+    font-family: 'Petit Formal Script', cursive;
+
+}
+p{
+    font-family: 'Alegreya SC', serif;
+
+}
+a{
+    font-family: 'Noto Serif Display', serif;
+
+}
+.Develop{
+    font-family: 'Questrial', sans-serif;
+}
+.bi-c-circle{
+    font-family: 'Questrial', sans-serif;
+}
+/* Nav bar */
+.container-fluid{
+
+}
+
+/* Home section */
+#Home{
+    
+    padding-top: 100px;
+}
+.about-Dan{
+    padding: 150px 20px;
+}
+.Name{
+    padding: 20px 30px;
+}
+.my-picture{
+    width: 100%;
+    border-radius: 70%;
+    
+}
+.offcanvas-image{
+    width: 400px;
+    height: 400px;
+}
+
+.offcanvas-trade-img{
+    width: 400px;
+    height: 400px;
+}
+
+/* Services */
+#Services{
+    padding-top: 10px;
+   
+}
+
+/* Skills-Section */
+#Skills-Section{
+    padding-top: 40px;
+}
+
+/* projects */
+
+#projects{
+    padding-top: 100px;
+}
+
+#view-more-projects{
+    padding-top: 200px;
+}
+.page{
+    text-align: center;
+}
+
+
+.Project-on-view-more{
+text-align: center;
+}
+
+/* footer */
+#footer{
+    background-color: #B2A4FF;
+    text-align: center;
+}
